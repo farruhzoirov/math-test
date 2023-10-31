@@ -29,7 +29,9 @@ html {
 }
 
 .tests-container strong {
+    font-size: 24px;
     margin-bottom: 10px;
+    color:white;
 }
 
 .tests-container h1 {
@@ -55,7 +57,7 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 
